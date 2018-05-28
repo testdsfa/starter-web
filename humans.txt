@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Masahiro  masahiro@git.training @masahiro
 
 # THANKS
 
